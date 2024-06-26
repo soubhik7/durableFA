@@ -1,0 +1,9 @@
+﻿{
+  "profiles": {
+    "durableFA_transformation": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7043",
+      "launchBrowser": false
+    }
+  }
+}

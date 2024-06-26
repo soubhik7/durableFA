@@ -1,0 +1,9 @@
+﻿{
+  "profiles": {
+    "durableFA_validation": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7170",
+      "launchBrowser": false
+    }
+  }
+}
