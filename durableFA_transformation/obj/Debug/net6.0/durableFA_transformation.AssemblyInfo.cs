@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("durableFA_transformation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+81cb8e904491403da89f47235e1680afc1c1b639")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d341e7badab8cd42ec58e612beb7ff3a04692c51")]
 [assembly: System.Reflection.AssemblyProductAttribute("durableFA_transformation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("durableFA_transformation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
