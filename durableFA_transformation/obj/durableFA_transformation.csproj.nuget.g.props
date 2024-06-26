@@ -19,5 +19,6 @@
     <PkgMicrosoft_Azure_WebJobs_Script_ExtensionsMetadataGenerator Condition=" '$(PkgMicrosoft_Azure_WebJobs_Script_ExtensionsMetadataGenerator)' == '' ">/Users/soubhik/.nuget/packages/microsoft.azure.webjobs.script.extensionsmetadatagenerator/4.0.1</PkgMicrosoft_Azure_WebJobs_Script_ExtensionsMetadataGenerator>
     <PkgMicrosoft_Azure_Functions_Analyzers Condition=" '$(PkgMicrosoft_Azure_Functions_Analyzers)' == '' ">/Users/soubhik/.nuget/packages/microsoft.azure.functions.analyzers/1.0.0</PkgMicrosoft_Azure_Functions_Analyzers>
     <PkgMicrosoft_NET_Sdk_Functions Condition=" '$(PkgMicrosoft_NET_Sdk_Functions)' == '' ">/Users/soubhik/.nuget/packages/microsoft.net.sdk.functions/4.4.0</PkgMicrosoft_NET_Sdk_Functions>
+    <PkgMicrosoft_Azure_WebJobs_Extensions_DurableTask_Analyzers Condition=" '$(PkgMicrosoft_Azure_WebJobs_Extensions_DurableTask_Analyzers)' == '' ">/Users/soubhik/.nuget/packages/microsoft.azure.webjobs.extensions.durabletask.analyzers/0.5.0</PkgMicrosoft_Azure_WebJobs_Extensions_DurableTask_Analyzers>
   </PropertyGroup>
 </Project>
